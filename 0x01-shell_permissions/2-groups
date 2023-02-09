@@ -1,2 +1,2 @@
 #!/bin/bash
-stat -c "User:%U Group:%G" /etc/
+id -g
