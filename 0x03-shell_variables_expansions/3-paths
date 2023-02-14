@@ -1,2 +1,2 @@
 #!/bin/bash
-gerp -o "/" PATH  | wc -l
+gerp -o "/" $PATH  | wc -l
